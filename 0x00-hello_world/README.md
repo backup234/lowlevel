@@ -1,0 +1,1 @@
+This is  a directory eith shell script amd c langiage

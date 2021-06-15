@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -c -Wall *.c | tr ".c" ".o" >> $CFILE
